@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/reviewfusion-95949-95958/review_radar_frontend"
+}
